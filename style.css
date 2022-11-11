@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+
+header{
+    background-image: linear-gradient(to bottom, rgb(248, 228, 191), rgb(226, 197, 133));
+    border-radius: 10px;
+    
+
+    
+    
+    
+    
+}
+
+*{
+    margin: 0%;
+    margin: auto;
+    
+    
+}
+
+
+
+p{
+    
+    
+    margin: auto;
+    font-family: 'Caveat', cursive;
+    font-size: 24px;
+    text-align: center;
+}
+
+h1{
+    
+    margin: auto;
+    font-family: 'Lobster', cursive;
+    font-size: 45px;
+    text-align: center;
+}
+
+nav{
+    background-color: rgb(243, 226, 195);
+    border-radius: 16px;
+}
+
+a{
+    color: black;
+    font-size: 17px;
+    padding-left: 50px;
+}
+
+body{
+    
+    background-image: linear-gradient(to left, rgb(255, 243, 221), rgb(248, 209, 136));
+}
+
+main{
+    background-color: aliceblue;
+    min-width: 320px;
+    max-width: 800px;
+}
+
+main{
+    background-color: rgb(219, 199, 161);
+    text-align: center;
+    min-width: 300px;
+    max-width: 800px;
+}
